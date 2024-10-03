@@ -23,5 +23,6 @@ public class MainActivity extends AppCompatActivity {
         });
         Log.d("main","text");
         Log.d("main","text2");
+        Log.d("main","text3");
     }
 }
